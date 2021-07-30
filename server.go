@@ -1,5 +1,4 @@
-// Sample code for building a server in Go
-package server
+package main
 
 import (
 	"encoding/json"
